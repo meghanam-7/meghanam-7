@@ -104,15 +104,9 @@ Backend application built using Node.js, Express.js, and PostgreSQL featuring au
 
 ---
 
-## 🛒 Shopping Mall Management System
+## FlowDesk
 
-Java + Spring Boot REST API project implementing CRUD operations with PostgreSQL.
-
----
-
-## 🛍 Trustless E-Commerce Marketplace
-
-Blockchain-based e-commerce platform built using Solidity, Hardhat, React, and Ethers.js.
+Smart Customer Support & Feedback Hub. A full-stack support platform with Supabase PostgreSQL and Row Level Security.
 
 ---
 
